@@ -1,4 +1,4 @@
-#  Lista Level 1
+<img width="1061" height="634" alt="image" src="https://github.com/user-attachments/assets/123fcd08-e000-413f-b457-a1606bd4a734" />#  Lista Level 1
 
 ## Descrição
 
@@ -27,4 +27,4 @@ Praticar os conceitos básicos da linguagem C#, como:
 
 ---
 
-Desenvolvido por **Júllia Andrade**.
+Desenvolvido por **Júllia Andrade** durante o curso de Desenvolvimento de Sistemas.
