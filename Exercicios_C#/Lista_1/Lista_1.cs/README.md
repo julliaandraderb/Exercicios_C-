@@ -1,4 +1,4 @@
-<img width="1061" height="634" alt="image" src="https://github.com/user-attachments/assets/123fcd08-e000-413f-b457-a1606bd4a734" />#  Lista Level 1
+#  Lista Level 1
 
 ## Descrição
 
