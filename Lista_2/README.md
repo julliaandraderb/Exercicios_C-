@@ -35,4 +35,4 @@ Praticar estruturas condicionais (`if`, `else` e `switch`) por meio de exercíci
 
 ---
 
-Desenvolvido por **Julia Andrade** durante o curso de Desenvolvimento de Sistemas.
+Desenvolvido por **Júllia Andrade** durante o curso de Desenvolvimento de Sistemas.
